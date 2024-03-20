@@ -52,7 +52,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [React](https://reactjs.org/) - JS library
 - [Node.js](https://nodejs.org/) - JS framework
 - [MongoDB](https://mongodb.com/) - Database
-- [Tailwind](https://tailwindcss.com/) - For styles
+- [TailwindCSS](https://tailwindcss.com/) - For styles
 
 ### What I learned
 - Next.js 14 Client Components vs Server Components
@@ -64,7 +64,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
    - Incremental Static Generation (ISR)
 
 ### Useful resources
-- [Javascript Mastery](https://www.youtube.com/@javascriptmastery) - This helped me understand Next.js concepts and also provided beautiful design assets to complete this project.
+- [Javascript Mastery](https://www.youtube.com/@javascriptmastery) - This helped me understand Next.js concepts and provided beautiful design assets to complete this project.
 
 
 ## Author
