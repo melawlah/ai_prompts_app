@@ -57,7 +57,7 @@ const promptId = searchParams.get('id');
   }
 
   return (
-    <Suspense> 
+    <Suspense fallback={<div>Loading...</div>}> 
         <Form 
         type="Edit"
         post={post}
