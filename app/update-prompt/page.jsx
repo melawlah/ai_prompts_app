@@ -66,7 +66,6 @@ const promptId = searchParams.get('id');
         handleSubmit={updatePrompt}
       />
     </Suspense>
-  
   )
 }
 
