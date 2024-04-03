@@ -58,10 +58,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Next.js 14 Client Components vs Server Components
 - Next.js 14 File-based Routing (including dynamic and nested routes)
 - Next.js 14 Serverless Route Handlers (Next API, Full Stack Apps)
-- Three ways to fetch data in Next.js:
-   - Server Side Rendering (SSR),
-   - Static Site Generation (SSG)
-   - Incremental Static Generation (ISR)
 
 ### Useful resources
 - [Javascript Mastery](https://www.youtube.com/@javascriptmastery) - This helped me understand Next.js concepts and provided beautiful design assets to complete this project.
